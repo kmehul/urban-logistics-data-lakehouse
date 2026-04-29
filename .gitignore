@@ -1,5 +1,6 @@
 Project Details*
 Project Overview*
 .env
+.DS_Store
 venv/
 __pycache__/
